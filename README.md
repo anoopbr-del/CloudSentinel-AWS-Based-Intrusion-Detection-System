@@ -169,5 +169,4 @@ Deploy to AWS EC2
 
 # 👨‍💻 Author
 
-Amruth Swamy C P
-Cloud \| DevOps \| SRE \| Security Enthusiast
+Amruth Swamy Anoop BR
