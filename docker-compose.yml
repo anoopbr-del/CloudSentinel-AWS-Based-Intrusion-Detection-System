@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  ids-system:
+    build: .
+    container_name: ids-ml
+    restart: always
